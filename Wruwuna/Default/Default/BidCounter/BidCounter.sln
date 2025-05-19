@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BidCounter", "BidCounter\BidCounter.csproj", "{58BB07F1-FAA7-4476-9591-AA5E43F6597F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{58BB07F1-FAA7-4476-9591-AA5E43F6597F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{58BB07F1-FAA7-4476-9591-AA5E43F6597F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{58BB07F1-FAA7-4476-9591-AA5E43F6597F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{58BB07F1-FAA7-4476-9591-AA5E43F6597F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {849337A0-9DB6-4D0E-B99B-72F109BB37C7}
+	EndGlobalSection
+EndGlobal
